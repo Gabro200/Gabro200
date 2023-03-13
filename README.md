@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Joe Mama
-- 🌱 I’m currently learning Yo Balls
-- 👯 I’m looking to collaborate on Sex
-- 🤔 I’m looking for help with finding drip
+- 🔭 I’m currently working on HoI4 Modding
+- 🌱 I’m currently learning HoI4 Modding
+- 👯 I’m looking to collaborate on cranking 90s
+- 🤔 I’m looking for help with Joe Mama
 - 💬 Ask me about my balls
 - 📫 How to reach me: no
 - 😄 Pronouns: Big/Döner
